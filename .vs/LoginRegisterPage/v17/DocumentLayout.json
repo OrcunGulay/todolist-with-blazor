@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orhan G\u00FClay\\Desktop\\ders\\bilgisayar\\yaz\u0131l\u0131m\\LoginRegisterPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C720D6F7-AC0D-41F3-AA53-C88CC68CB5AA}|LoginRegisterPage\\LoginRegisterPage.csproj|c:\\users\\orhan g\u00FClay\\desktop\\ders\\bilgisayar\\yaz\u0131l\u0131m\\loginregisterpage\\loginregisterpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C720D6F7-AC0D-41F3-AA53-C88CC68CB5AA}|LoginRegisterPage\\LoginRegisterPage.csproj|solutionrelative:loginregisterpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Orhan G\u00FClay\\Desktop\\ders\\bilgisayar\\yaz\u0131l\u0131m\\LoginRegisterPage\\LoginRegisterPage\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "LoginRegisterPage\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Orhan G\u00FClay\\Desktop\\ders\\bilgisayar\\yaz\u0131l\u0131m\\LoginRegisterPage\\LoginRegisterPage\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "LoginRegisterPage\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAAAGIBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T21:38:03.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

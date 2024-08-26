@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orhan Gülay\\Desktop\\ders\\bilgisayar\\yazılım\\LoginRegisterPage\\LoginRegisterPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LoginRegisterPage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LoginRegisterPage.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orhan Gülay\\Desktop\\ders\\bilgisayar\\yazılım\\LoginRegisterPage\\LoginRegisterPage\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Orhan Gülay\\Desktop\\ders\\bilgisayar\\yazılım\\LoginRegisterPage\\LoginRegisterPage\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orhan Gülay\\Desktop\\ders\\bilgisayar\\yazılım\\LoginRegisterPage\\LoginRegisterPage\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orhan Gülay\\Desktop\\ders\\bilgisayar\\yazılım\\LoginRegisterPage\\LoginRegisterPage\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoginRegisterPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LoginRegisterPage.props",
+      "PackagePath": "build\\LoginRegisterPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LoginRegisterPage.props",
+      "PackagePath": "buildMultiTargeting\\LoginRegisterPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LoginRegisterPage.props",
+      "PackagePath": "buildTransitive\\LoginRegisterPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
